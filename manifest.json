@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Thirty",
+  "version": "0.2",
+
+  "default_locale": "en",
+  "description": "A countdown",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "landing.html"
+  },
+}
